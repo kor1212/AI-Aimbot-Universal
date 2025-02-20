@@ -2,17 +2,6 @@
 
 # Xperience AI Aimbot C++
 
-[![C++](https://img.shields.io/badge/C%2B%2B-17-blue)](https://github.com/Xperience AIr/Xperience AI_aimbot_cpp)
-[![License MIT](https://badgen.net/github/license/Xperience AIr/Xperience AI_aimbot_cpp)](https://github.com/Xperience AIr/Xperience AI_aimbot_cpp/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Xperience AIr/Xperience AI_aimbot_cpp?color=ffb500)](https://github.com/Xperience AIr/Xperience AI_aimbot_cpp)
-[![Discord server](https://badgen.net/discord/online-members/Xperience AI)](https://discord.gg/Xperience AI)
-
-  <p>
-    <a href="https://github.com/Xperience AIr/Xperience AI_aimbot_cpp/releases" target="_blank">
-      <img width="75%" src="https://github.com/Xperience AIr/Xperience AI_aimbot/blob/main/media/one.gif">
-    </a>
-  </p>
-</div>
 
 - **This project is actively being developed thanks to the people who support on [Boosty](https://boosty.to/Xperience AI) and [Patreon](https://www.patreon.com/Xperience AI). By providing active support, you receive enhanced AI models.**
 
